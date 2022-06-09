@@ -46,6 +46,7 @@ export default {
       h1 {
         margin-bottom: 0.7rem;
         color: #FF2600;
+        text-align: center;
       }
     }
   }

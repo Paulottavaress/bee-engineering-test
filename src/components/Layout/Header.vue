@@ -5,7 +5,7 @@
 <template>
   <header>
     <div class="logo-container">
-      <img src="../../../public/images/logo.png" alt="DataHow logo">
+      <img src="/public/images/logo.png" alt="DataHow logo">
     </div>
     <nav>
       <RouterLink class="nav-link" to="/">Home</RouterLink>
