@@ -1,8 +1,3 @@
-<script setup>
-  import PrecipitationChart from './PrecipitationChart.vue';
-  import TemperatureChart from './TemperatureChart.vue';
-</script>
-
 <template>
   <div class="container">
     <main>
@@ -20,6 +15,9 @@
 </template>
 
 <script>
+import PrecipitationChart from './PrecipitationChart.vue';
+import TemperatureChart from './TemperatureChart.vue';
+
 export default {
   components: { 
     PrecipitationChart, 
